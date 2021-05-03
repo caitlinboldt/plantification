@@ -32,7 +32,7 @@ export default function Home() {
           {Object.keys(subpageData).map((page) => (
             <Link href={`/${page}`}>
               <div className={styles.subpageTile}>
-                <h6>{capitalize(page).replaceAll("-", " ")}</h6>
+                <h6>{capitalize(page).replace(/-/g, " ")}</h6>
               </div>
             </Link>
           ))}

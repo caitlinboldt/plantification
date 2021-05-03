@@ -7,7 +7,7 @@ import textData from "./data/textSubpage.json";
 export default function PlantSubpage() {
   const router = useRouter();
   const { plantSubpage } = router.query;
-  const formattedTitle = plantSubpage && plantSubpage.replaceAll("-", " ");
+  const formattedTitle = plantSubpage && plantSubpage.replace(/-/g, " ");
   return (
     <div className={subpageStyles.main}>
       <div className={subpageStyles.container}>
