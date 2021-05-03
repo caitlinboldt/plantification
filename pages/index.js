@@ -1,65 +1,56 @@
-import Head from 'next/head'
-import styles from '../styles/Home.module.css'
+import styles from "../styles/Home.module.scss";
+import data from "./data/homepagePlants.json";
+import subpageData from "./data/subpagePlants.json";
+import { capitalize } from "lodash";
+import Link from "next/link";
+
+// Code for when using the Trefle API.
+// import homepagePlantList from "./data/plantLists";
+
+// import { getPlants } from "../lib/plants";
+
+// export async function getStaticProps() {
+
+//   const allPlantsData = await getPlants(homepagePlantList);
+//   return {
+//     props: {
+//       allPlantsData,
+//     },
+//   };
+// }
 
 export default function Home() {
   return (
-    <div className={styles.container}>
-      <Head>
-        <title>Create Next App</title>
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
+    <div className={styles.homepage}>
+      <div className={styles.container}>
+        <h1 className={styles.title}>Plantification</h1>
+        <h6 className={styles.subtitle}>
+          Examples of plants for different situations
+        </h6>
 
-      <main className={styles.main}>
-        <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
-        </h1>
-
-        <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
-        </p>
-
-        <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h3>Documentation &rarr;</h3>
-            <p>Find in-depth information about Next.js features and API.</p>
-          </a>
-
-          <a href="https://nextjs.org/learn" className={styles.card}>
-            <h3>Learn &rarr;</h3>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
-          </a>
-
-          <a
-            href="https://github.com/vercel/next.js/tree/master/examples"
-            className={styles.card}
-          >
-            <h3>Examples &rarr;</h3>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
-          </a>
-
-          <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-            className={styles.card}
-          >
-            <h3>Deploy &rarr;</h3>
-            <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
-            </p>
-          </a>
+        <div className={styles.subpageTileContainer}>
+          {Object.keys(subpageData).map((page) => (
+            <Link href={`/${page}`}>
+              <div className={styles.subpageTile}>
+                <h6>{capitalize(page).replaceAll("-", " ")}</h6>
+              </div>
+            </Link>
+          ))}
         </div>
-      </main>
 
-      <footer className={styles.footer}>
-        <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Powered by{' '}
-          <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />
-        </a>
-      </footer>
+        <main className={styles.main}>
+          {data.map((plant) => (
+            <div className={styles.figure} key={plant.id}>
+              <img
+                src={plant.image_url}
+                alt={plant.common_name}
+                className={styles.images}
+              ></img>
+              <p>{plant.common_name}</p>
+            </div>
+          ))}
+        </main>
+      </div>
     </div>
-  )
+  );
 }

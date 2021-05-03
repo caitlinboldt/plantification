@@ -1,0 +1,161 @@
+{
+    "indirect-light": [
+        {
+            "id": 1,
+            "common_name": "Guzmania bromeliad",
+            "scientific_name": "Guzmania bromeliad",
+            "image_url": "https://www.thespruce.com/thmb/B7h-fG9abRETauAJLhYUI9IKJIQ=/3312x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/guzmania-plants-133095162-588ba2c63df78caebc671226.jpg",
+            "description": ""
+        },
+        {
+            "id": 2,
+            "common_name": "Chinese evergreen",
+            "scientific_name": "Aglaonema",
+            "image_url": "https://cdn.shopify.com/s/files/1/0350/5665/products/Silver_Bay_Chinese_Evergreen__5N8A3548_web_7d98b0fe-7bec-4810-9845-3c42c1f422fa_600x600.jpg?v=1585241799",
+            "description": ""
+        },
+        {
+            "id": 3,
+            "common_name": "Peacock plant",
+            "scientific_name": "Calathea makoyana",
+            "image_url": "https://i.pinimg.com/736x/e6/0b/5d/e60b5d9883f95247fa7d985bccf33cc7.jpg",
+            "description": ""
+        }
+    ],
+    "partial-light": [
+        {
+            "id": 1,
+            "common_name": "Aloe vera",
+            "scientific_name": "Aloe vera",
+            "image_url": "https://www.almanac.com/sites/default/files/styles/primary_image_in_article/public/image_nodes/aloe-vera-white-pot_sunwand24-ss_edit.jpg?itok=Y7HnaYk3",
+            "description": "Add to your first aid arsenal with a low maintenance aloe vera plant. The sap provides ready relief for minor cuts and burns, and plants are easy to propagate by repotting the pups. Plant your aloe vera in a heavy terra cotta pot that will both support the top-heavy growth, and encourage air circulation. You can also mound soil around the stem to provide support for flopping plants."
+        },
+        {
+            "id": 2,
+            "common_name": "Sago palm",
+            "scientific_name": "Cycas revoluta",
+            "image_url": "https://cdn.shopify.com/s/files/1/0212/1030/0480/products/SagoPalm-full_560x560_crop_center.jpg?v=1605024122",
+            "description": "The sago palm is a slow-growing cycad that fits well into modern decorating schemes. It produces no flowers and rarely sheds its leaves, making it a tidy choice for the bright bedroom or living room. Got curious cats or nibbling toddlers? This plant is very poisonous and should not be around pets of kids that might give it even a cursory taste."
+        },
+        {
+            "id": 3,
+            "common_name": "Snake plant",
+            "scientific_name": "Sansevieria trifasciata",
+            "image_url": "https://www.thespruce.com/thmb/LCmg9w-CpV-BCnw3MRXbET3Z5qE=/2048x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/snake-plant-care-overview-1902772-05-acca75c5d61f4357bdcd28f1510f7467.jpg",
+            "description": "This popular 'impossible-to-kill' houseplant is carried in most garden centers as an ideal specimen for those new to houseplants, or those too busy to provide much care to their plants. Sansevieria trifasciata does great in bright light, but it will grow in shady conditions as well. If you are lucky, your snake plant might even reward you with a flush of fragrant white flowers. "
+        }
+    ],
+    "direct-light": [
+        {
+            "id": 3,
+            "common_name": "Dracena warneckii goldstar",
+            "scientific_name": "Dracena warneckii",
+            "image_url": "https://www.plantvine.com/plants/Gold-Star-Drac-Bush.jpg",
+            "description": ""
+        },
+        {
+            "id": 1,
+            "common_name": "Spider plant",
+            "scientific_name": "Chlorophytum comosum",
+            "image_url": "https://www.thespruce.com/thmb/O-AXoDRQBPnjEx_vV974YMuDqg8=/3000x2000/filters:no_upscale():max_bytes(150000):strip_icc()/spider-plants-chlorophytum-definition-1902773-01b-b3f60dce30a64c399d52b5538417cc7d.jpg",
+            "description": ""
+        },
+        {
+            "id": 2,
+            "common_name": "Wandering jew",
+            "scientific_name": "Tradescantia zebrina",
+            "image_url": "https://bloomscape.com/wp-content/uploads/2020/08/bloomscape_tradescantia-zebrina_alt_detail.jpg?ver=279101",
+            "description": ""
+        }
+    ],
+    "fruits-and-veggies": [
+        {
+            "id": 1,
+            "common_name": "Strawberry",
+            "scientific_name": "Fragaria x ananassa",
+            "image_url": "https://www.thespruce.com/thmb/xxYmHk2pU8i3DA2juZrJHcBcghg=/2750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-best-fruit-to-grow-4134299-02-5cc1da9183ba4d0aae9cbf5256b26721.jpg",
+            "description": "Freshly picked strawberries are well worth the minimal effort it takes to grow them. You have a choice among three types: June bearing, which sets one large crop in June (nice for preserves and freezing); everbearing, which produces two to three smaller harvests per season; and day neutral, which continually sets small amounts of strawberries throughout the season."
+        },
+        {
+            "id": 2,
+            "common_name": "Tomato",
+            "scientific_name": "Solanum lycopersicum",
+            "image_url": "https://www.thespruce.com/thmb/rU8RTsnBPWrt0arHyY9Bt7QMuH4=/3024x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tomatoes2-2b359a1a1a8e4395835cb9bf4077059a.jpg",
+            "description": "If you are buying tomato seedlings, look for short, stocky plants that do not have blossoms yet. Keep in mind the larger the tomato variety the bigger the pot it will require. Small cherry tomatoes will not require the same amount of room and soil as a large beefsteak type tomato. Tomatoes do not like the cold, so do not put them out too early. Make sure you harden off or gradually acclimate seedlings to outside living before you plant them. When planting tomato seedlings, remove the seed leaves and the first set of true leaves and place the bottom half of the seedling in the ground. Tomatoes are planted much deeper than most plants"
+        },
+        {
+            "id": 3,
+            "common_name": "Blackberry",
+            "scientific_name": "Rubus fruticosus",
+            "image_url": "https://www.thespruce.com/thmb/l6AHGLEa36xa4dMv_LAl43Yl9Pw=/3024x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-best-fruit-to-grow-4134299-03-83e87c427c9e433593b60ca9d01be537.jpg",
+            "description": "Blackberries have always been backyard favorites. But older varieties can be rambunctious plants, spreading widely and covered in thorns that made harvesting a painful chore. Newer cultivars are much better behaved and thornless. Moreover, planting a mix of early, mid-season, and late-season varieties will extend your harvest for weeks. The plants do require annual pruning to keep them productive, but it is a quick job. The goal with pruning is to thin the plants enough that light and air can reach all parts. This benefits growth and helps to prevent disease."
+        },
+        {
+            "id": 4,
+            "common_name": "Hot and sweet peppers",
+            "scientific_name": "Capsicum annuum",
+            "image_url": "https://www.thespruce.com/thmb/rg7eam7PKeNta27FFiTeB3vRVb8=/2000x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/choosing-and-growing-hot-peppers-1403380-04-a6960678a1bc44f08fd7c4301889b3a0.jpg",
+            "description": "Both hot and sweet peppers can be spectacularly beautiful, especially orange and purple sweet peppers in containers. They thrive in grow boxes but can be grown in any large container with plenty of sun, good drainage, and consistent watering. Dry soil or overly wet soil is disastrous for peppers. One of the most significant benefits of planting peppers in containers is that you can move your plants inside if continuously stormy weather threatens your area for several days. Peppers come in all shapes, sizes, and colors. Hot peppers range in spice level from mild to searing to hardly edible."
+        },
+        {
+            "id": 5,
+            "common_name": "Fig tree",
+            "scientific_name": "Ficus carica",
+            "image_url": "https://www.thespruce.com/thmb/qWuUftytLjD_Dq5HVgxDVVlBfoo=/3024x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-best-fruit-to-grow-4134299-08-8f3bdb766a6147d0abb4d0517f2b86d6.jpg",
+            "description": "Fig trees are surprisingly easy to grow either in the ground or in containers. They do not require much pruning and are usually pest-free. Most fig varieties are only reliably hardy down to USDA hardiness zone 7, but there are a few new cultivars that are hardier. <br><br> If you choose to grow your fig tree in a container and move it indoors for the winter, keep the container small. The more confined the roots are, the smaller the top of the tree will remain. It will be much easier to move, and you will still get plenty of figs."
+        },
+        {
+            "id": 6,
+            "common_name": "Potato",
+            "scientific_name": "Solanum tuberosum",
+            "image_url": "https://www.thespruce.com/thmb/Y7UW6RZQTUk5971Yctf-fb-LaYk=/3600x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Gardenpotatoes-GettyImages-1138762080-5659059dde7b4dee823a18c5b3a2cf33.jpg",
+            "description": "Freshly picked potatoes taste entirely different than the potatoes you buy in a grocery store. They have higher water content and a bitter, earthy flavor to usher in the freshness of spring. Growing ​potatoes in containers requires a lot of soil and water but is worth the resources and effort. Containers also add an extra level of protection against fungus or blight (Phtophthora infestans), which spreads easier among in-ground plants."
+        }
+    ],
+    "flowers": [
+        {
+            "id": 1,
+            "common_name": "Marigolds",
+            "scientific_name": "Tagetes",
+            "image_url": "https://hgtvhome.sndimg.com/content/dam/images/grdn/fullset/2014/6/2/0/img-2531.jpg.rend.hgtvcom.966.644.suffix/1452856498734.jpeg",
+            "description": "Cheerful marigolds are easy to grow in sunny spots, brightening your garden with shades of yellow, red and gold as they bloom all summer long. African or American type marigolds grow 3 to 5 feet tall, but you can find shorter and more compact varieties."
+        },
+        {
+            "id": 2,
+            "common_name": "Pansies",
+            "scientific_name": "Viola x wittrockiana",
+            "image_url": "https://hgtvhome.sndimg.com/content/dam/images/grdn/fullset/2014/3/12/0/2020_087.jpg.rend.hgtvcom.966.725.suffix/1452660811810.jpeg",
+            "description": "Pansies (Viola x wittrockiana) add color to your garden while the weather is cool, in spring and fall. They'll even overwinter in some regions if they're mulched for protection. Give these undemanding little plants sun and soil that drains easily."
+        },
+        {
+            "id": 3,
+            "common_name": "Snapdragons",
+            "scientific_name": "Antirrhinum majus",
+            "image_url": "https://hgtvhome.sndimg.com/content/dam/images/grdn/fullset/2014/12/4/0/CI_snapdragon-twinny-appleblossom-blooms.jpg.rend.hgtvcom.966.644.suffix/1452848058053.jpeg",
+            "description": "Bring butterflies to your beginner's garden with pink and cream snapdragons (Antirrhinum majus) like ‘Twinny Appleblossom’. These plants bloom heavily and stand up to the often harsh weather in spring and fall."
+        }
+    ],
+    "patio-plants": [
+        {
+            "id": 1,
+            "common_name": "Parsley",
+            "scientific_name": "Petroselinum crispum",
+            "image_url": "https://www.thespruce.com/thmb/D1YtXLrAn4xorozqZnX1qR5FKEo=/4752x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/high-angle-view-of-plants-688059611-e242f374eace41138d0be37bee158a55.jpg",
+            "description": "Almost any recipe is better if you put parsley in or on it. Parsley is exceedingly easy to grow. You can either buy seedlings, almost anywhere that sells plants or grow it from seed. I usually buy seedlings because the seeds can take weeks to germinate and are fussy about transplanting. If you do start with parsley seeds, soak them overnight before planting."
+        },
+        {
+            "id": 2,
+            "common_name": "Succulents",
+            "scientific_name": "Asphodelaceae",
+            "image_url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gettyimages-631531065-1589648998.jpg?crop=0.6605xw:1xh;center,top&resize=768:*",
+            "description": "For a sunny patio, succulents are a fun option! They come in hundreds of sizes, shapes, and colors and require almost nothing from you. Some are cold-hardy and will survive winter, but, if not, you certainly can dig a few up and pot to bring indoors to enjoy on a sunny windowsill."
+        },
+        {
+            "id": 3,
+            "common_name": "Fern",
+            "scientific_name": "Tracheophyta",
+            "image_url": "https://cdn.britannica.com/s:800x450,c:crop/30/73130-138-917E422E/Ferns-systems-tracheophytes-leaves-water.jpg",
+            "description": "Ferns are extremely forgiving and have an incredibly strong survival instinct. Ferns will grow where other plants fail to thrive and most do well in rich, well-drained soil with an abundance of organic matter."
+        }
+    ]
+}
