@@ -24,14 +24,24 @@
       font-size: 32px;
       margin: 130px 0 15px 0;
       width: 60%;
+
+      @media screen and (max-width: 600px) {
+        width: 90%;
+      }
     }
 
     p {
       font-size: 16px;
       width: 60%;
 
+      @media screen and (max-width: 600px) {
+        width: 90%;
+      }
+
       a {
         color: $secondary-color;
+        word-break: normal;
+        overflow-wrap: anywhere;
       }
     }
   }
